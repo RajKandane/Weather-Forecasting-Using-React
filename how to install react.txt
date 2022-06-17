@@ -1,1 +1,6 @@
 npx create-react-app weather-app
+
+// after creating
+cd to the new react folder created
+
+npm start
