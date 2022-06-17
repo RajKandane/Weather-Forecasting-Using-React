@@ -1,0 +1,8 @@
+$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+			|
+tail<path to id-rsa.pub>
+
+for reference do code with harry for how to add project in repositories of git hub  // the code is inside the webDevelopment course
+
+					|
+			and for adding new file in repositories watch the same video at the ending 
