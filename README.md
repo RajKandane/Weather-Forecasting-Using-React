@@ -1,7 +1,6 @@
 # Weather Forecasting
 
-# Weather Forecasting
-
+Jan 2022 - Apr 2022
 
 ![Weather Forecast 1](Screenshot/Screenshot%20(70).png)
 ![Weather Forecast 2](Screenshot/Screenshot%20(71).png)
