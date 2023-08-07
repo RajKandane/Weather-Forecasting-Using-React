@@ -2,8 +2,14 @@
 
 Jan 2022 - Apr 2022
 
-[![Hangman Game Demo](https://img.youtube.com/vi/iR4o0uiN_Kc/0.jpg)](https://youtu.be/iR4o0uiN_Kc)
+## Weather Forecasting
 
+Check out the Weather Forecasting in action on YouTube:
+
+[![Weather Forecasting](https://img.youtube.com/vi/iR4o0uiN_Kc/0.jpg)](https://youtu.be/iR4o0uiN_Kc)
+
+
+## Weather Forecasting Screenshot
 
 ![Weather Forecast 1](Screenshot/Screenshot%20(70).png)
 ![Weather Forecast 2](Screenshot/Screenshot%20(71).png)
