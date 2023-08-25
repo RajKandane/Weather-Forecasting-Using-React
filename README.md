@@ -4,9 +4,13 @@ Jan 2022 - Apr 2022
 
 ## Weather Forecasting
 
-Check out the Weather Forecasting in action on YouTube:
+<div align="center">
+  <p>Check out the Weather Forecasting in action on YouTube:</p>
+  <a href="https://youtu.be/iR4o0uiN_Kc">
+    <img src="https://img.youtube.com/vi/iR4o0uiN_Kc/0.jpg" alt="Weather Forecasting">
+  </a>
+</div>
 
-[![Weather Forecasting](https://img.youtube.com/vi/iR4o0uiN_Kc/0.jpg)](https://youtu.be/iR4o0uiN_Kc)
 
 
 ## Weather Forecasting Screenshot
